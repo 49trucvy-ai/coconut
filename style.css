@@ -1,0 +1,19 @@
+h1 {
+  color:red; 
+}
+.f1 {
+color: blue;
+margin-top: 18pt;
+margin-bottom: 12pt;
+font-size: 20pt;
+font-weight: bold;
+font-family: arial;
+}
+.f2 {
+color: black;
+margin-top: 6pt;
+margin-bottom: 6pt;
+font-size: 15pt;
+font-style: normal;
+font-family: arial;
+}
